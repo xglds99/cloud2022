@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "eureka.client.instance.instance-id",
+      "type": "java.lang.String",
+      "description": "Description for eureka.client.instance.instance-id."
+  }
+] }
